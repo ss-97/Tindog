@@ -1,2 +1,1 @@
-# Tindog
-Part of a web development course
+TinDog Starting Files
